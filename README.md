@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alhasan Nofal</h1>
-<h3 align="center">A passionate learner, Computer Science student, and aspiring Full Stack Developer from Palestine</h3>
+<h3 align="center">A passionate learner, Computer Science student, and aspiring Full Stack Developer from Palestine 🚀</h3>
 
 ---
 
@@ -8,7 +8,9 @@
 - Enhancing my skills in Flutter and Full Stack Development  
 
 🎯 **About Me:**  
-I am a junior developer excited about learning and building software that solves real-world problems. With a strong passion for innovation and a basic understanding of **.NET** and **Flutter**, I am focused on improving my skills in both **frontend** and **backend** development to craft seamless user experiences.
+- 💻 Junior developer passionate about solving real-world problems through software.  
+- 🔧 Focused on improving **frontend** and **backend** development skills for creating seamless user experiences.  
+- 🌟 Passionate about **.NET**, **Flutter**, and innovative projects.  
 
 💡 **Interests:**  
 - Game Development  
@@ -23,10 +25,10 @@ I am a junior developer excited about learning and building software that solves
 
 ---
 
-<h2>🌐 Connect with Me</h2>
-<p>If you'd like to collaborate, network, or simply say hi, feel free to reach out!</p>
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">I'd love to collaborate, network, or chat about tech!</p>
 
-<div align="left">
+<p align="center">
   <a href="https://linkedin.com/in/alhasan-nofal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
@@ -42,32 +44,40 @@ I am a junior developer excited about learning and building software that solves
   <a href="https://instagram.com/_a.nofal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
-</div>
+</p>
 
 ---
 
 <h2>🛠️ Technical Skills</h2>
 <p>Here’s a snapshot of my current skill set:</p>
 
-<div align="left">
+### **Languages**  
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
+</p>
+
+### **Frameworks and Libraries**  
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+</p>
+
+### **Tools**  
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-</div>
+</p>
 
 ---
 
 <h2>📊 GitHub Stats</h2>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alhasanno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alhasanno&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages" />
@@ -76,6 +86,7 @@ I am a junior developer excited about learning and building software that solves
 ---
 
 <h2>🏆 Achievements & Activity</h2>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alhasanno&theme=dracula&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
 </div>
@@ -83,6 +94,13 @@ I am a junior developer excited about learning and building software that solves
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alhasanno&radius=16&theme=react-dark&area=true" height="300" alt="Activity Graph" />
 </div>
+
+---
+
+<h2>🚀 Featured Projects</h2>
+
+<strong>- [**Student Examination System**](https://github.com/AlhasanNO/StudentExaminationSystem):</strong> A desktop application that helps the admin of school to manage Teachers, Students, Courses, And exams (Using C# and EF).  
+<strong>- [**PPU Feeds**](https://github.com/AlhasanNO/PPU-Feeds):</strong> A mobile application using Flutter.
 
 ---
 
