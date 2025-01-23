@@ -97,13 +97,6 @@
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-
-<strong>- [**Student Examination System**](https://github.com/AlhasanNO/StudentExaminationSystem):</strong> A desktop application that helps the admin of school to manage Teachers, Students, Courses, And exams (Using C# and EF).  
-<strong>- [**PPU Feeds**](https://github.com/AlhasanNO/PPU-Feeds):</strong> A mobile application using Flutter.
-
----
-
 <div align="center">
   <img height="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Cool divider" />
 </div>
