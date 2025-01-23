@@ -86,13 +86,6 @@ I am a junior developer excited about learning and building software that solves
 
 ---
 
-<h2>🐍 Snake Game</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alhasanno/alhasanno/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <img height="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Cool divider" />
 </div>
