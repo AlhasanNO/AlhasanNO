@@ -10,18 +10,18 @@
 ---
 
 ## 🌱 **Currently Learning:**  
-### - Unity and Game Development  
-### - Enhancing my skills in Flutter and Full Stack Development  
+#### - Unity and Game Development  
+#### - Enhancing my skills in Flutter and Full Stack Development  
 
 ## 🎯 **About Me:**  
-### - 💻 Junior developer passionate about solving real-world problems through software.  
-### - 🔧 Focused on improving **frontend** and **backend** development skills for creating seamless user experiences.  
-### - 🌟 Passionate about **.NET**, **Flutter**, and innovative projects.  
+#### - 💻 Junior developer passionate about solving real-world problems through software.  
+#### - 🔧 Focused on improving **frontend** and **backend** development skills for creating seamless user experiences.  
+#### - 🌟 Passionate about **.NET**, **Flutter**, and innovative projects.  
 
 ## 💡 **Interests:**  
-### - Game Development  
-### - Web and Mobile App Development  
-### - Solving complex problems through code  
+#### - Game Development  
+#### - Web and Mobile App Development  
+#### - Solving complex problems through code  
 
 ---
 
