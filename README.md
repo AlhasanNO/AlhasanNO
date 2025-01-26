@@ -9,19 +9,19 @@
 
 ---
 
-🌱 **Currently Learning:**  
-- Unity and Game Development  
-- Enhancing my skills in Flutter and Full Stack Development  
+## 🌱 **Currently Learning:**  
+#### - Unity and Game Development  
+#### - Enhancing my skills in Flutter and Full Stack Development  
 
-🎯 **About Me:**  
-- 💻 Junior developer passionate about solving real-world problems through software.  
-- 🔧 Focused on improving **frontend** and **backend** development skills for creating seamless user experiences.  
-- 🌟 Passionate about **.NET**, **Flutter**, and innovative projects.  
+## 🎯 **About Me:**  
+#### - 💻 Junior developer passionate about solving real-world problems through software.  
+#### - 🔧 Focused on improving **frontend** and **backend** development skills for creating seamless user experiences.  
+#### - 🌟 Passionate about **.NET**, **Flutter**, and innovative projects.  
 
-💡 **Interests:**  
-- Game Development  
-- Web and Mobile App Development  
-- Solving complex problems through code  
+## 💡 **Interests:**  
+#### - Game Development  
+#### - Web and Mobile App Development  
+#### - Solving complex problems through code  
 
 ---
 
@@ -54,10 +54,10 @@
 
 ---
 
-<h2>🛠️ Technical Skills</h2>
-<p>Here’s a snapshot of my current skill set:</p>
+## **🛠️ Technical Skills**
+#### Here’s a snapshot of my current skill set:
 
-### **Languages**  
+## **Languages**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -78,6 +78,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman"/>
 </p>
 
 ---
