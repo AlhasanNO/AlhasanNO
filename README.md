@@ -10,16 +10,14 @@
 ---
 
 ## 🌱 **Currently Learning:**  
-#### - Unity and Game Development  
 #### - Enhancing my skills in Flutter and Full Stack Development  
 
 ## 🎯 **About Me:**  
 #### - 💻 Junior developer passionate about solving real-world problems through software.  
 #### - 🔧 Focused on improving **frontend** and **backend** development skills for creating seamless user experiences.  
-#### - 🌟 Passionate about **.NET**, **Flutter**, and innovative projects.  
+#### - 🌟 Passionate about **Flutter**, and innovative projects.  
 
 ## 💡 **Interests:**  
-#### - Game Development  
 #### - Web and Mobile App Development  
 #### - Solving complex problems through code  
 
@@ -59,18 +57,15 @@
 
 ## **Languages**  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
 
 ### **Frameworks and Libraries**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 </p>
 
